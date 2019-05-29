@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- App for new user greating generating
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Generate greatings
 
 ## Getting started
 
